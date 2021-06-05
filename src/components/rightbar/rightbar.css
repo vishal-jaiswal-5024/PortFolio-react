@@ -1,0 +1,84 @@
+.Container{
+    flex: 6;
+    height: 100vh;
+    background-color: black;
+}
+
+.aboutmeText{
+    position: absolute;
+    color: white;
+    top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;    
+}
+.aboutme2Text{
+    position: absolute;
+    color: green;
+    top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;    
+}
+.aboutcontainText{
+    position: absolute;
+    top: 150px;
+    color: gray;
+    padding-left: 20px;
+    padding-right: 20px;
+  
+} 
+.myserivesContainerText{
+    position: absolute; 
+    top: 320px;  
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;    
+}
+.rightbarIcon{
+    margin-right: 15px;
+}
+.rightbarList{
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;   
+    list-style: none;
+    top: 400px;
+    
+
+}
+.rightbarListItem{
+    display: flex;
+    align-items: center;
+}
+
+.rightbarIcon{
+    
+    color: green;
+    width: 40px;
+    height: 40px;
+}
+
+.rightbarListItemText{
+    position: relative;
+    color: white;
+     padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 12px;
+    padding-top: 12px;
+     
+     
+}
+.rightbarListcontainText{
+    position: relative;
+    color: gray; 
+    }
+
+
+
+
+
+
+
+
+
+
+
